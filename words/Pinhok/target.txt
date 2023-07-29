@@ -206,31 +206,31 @@ president (presidenter)
 vit (vitt, vita)
 svart (svart, svarta)
 
-röd
-blå
-grön
-gul
-långsam
-snabb
-rolig
-orättvis
-rättvis
-svår
-enkel
+röd (rött, röda)
+blå (blått, blåa)
+grön (grönt, gröna)
+gul (gult, gula)
+långsam (långsamt, långsamma)
+snabb (snabbt, snabba)
+rolig (roligt, roliga)
+orättvis (orättvist, orättvisa)
+rättvis (rättvist, rättvisa)
+svår (svårt, svåra)
+enkel (enkelt, enkla)
 det här är svårt
-rik
-fattig
-stark
-svag
-säker
-trött
-stolt
-mätt
-sjuk
-frisk
-arg
-låg
-hög
+rik (rikt, rika)
+fattig (fattigt, fattiga)
+stark (starkt, starka)
+svag (svagt, svaga)
+säker (säkert, säkra)
+trött (trött, trötta)
+stolt (stolt, stolta)
+mätt (mätt, mätta)
+sjuk (sjukt, sjuka)
+frisk (friskt, friska)
+arg (argt, arga)
+låg (lågt, låga)
+hög (högt, höga)
 
 rak
 varje
@@ -244,23 +244,23 @@ mer
 jag vill ha mer
 ingen
 väldigt
-djur
-gris
-ko
-häst
-hund
-får
-apa
-katt
-björn
-kyckling
-anka
-fjäril
-bi
+djur (djur)
+gris (grisar)
+ko (kor)
+häst (hästar)
+hund (hundar)
+får (får)
+apa (apor)
+katt (katter)
+björn (björnar)
+kyckling (kycklingar)
+anka (ankor)
+fjäril (fjärilar)
+bi (bin)
 
-fisk
-spindel
-orm
+fisk (fiskar)
+spindel (spindlar)
+orm (ormar)
 utanför
 inuti
 långt borta
@@ -270,73 +270,73 @@ ovan
 bredvid
 fram
 bak
-söt
-sur
-konstig
-mjuk
-hård
-söt
-dum
-galen
-upptagen
-lång
-kort
-orolig
-överraskad
+söt (sött, söta)
+sur (surt, sura)
+konstig (konstigt, konstiga)
+mjuk (mjukt, mjuka)
+hård (hårt, hårda)
+söt (sött, söta)
+dum (dumt, dumma)
+galen (galet, galna)
+upptagen (upptaget, upptagna)
+lång (långt, långa)
+kort (kort, korta)
+orolig (oroligt, oroliga)
+överraskad (överraskat, överraskade)
 
-häftig
-skötsam
-ond
-smart
-kall
-het
-huvud
-näsa
-hårstrå
-mun
-öra
-öga
-hand
-fot
-hjärta
-hjärna
-att dra
-att trycka
-att trycka på
-att slå
-att fånga
-att slåss
-att kasta
-att springa
-att läsa
+häftig (häftigt, häftiga)
+skötsam (skötsamt, skötsamma)
+ond (ont, onda)
+smart (smart, smarta)
+kall (kallt, kalla)
+het (hett, heta)
+huvud (huvud)
+näsa (näsor)
+hårstrå (hår)
+mun (munnar)
+öra (öron)
+öga (ögon)
+hand (händer)
+fot (fötter)
+hjärta (hjärtan)
+hjärna (hjärnor)
+att dra (drar, drog, dragit)
+att trycka (trycker, tryckte, tryckt)
+att trycka på (trycker på, tryckte på, tryckt på)
+att slå (slår, slog, slagit)
+att fånga (fångar, fångade, fångat)
+att slåss (slår, slogs, slagits)
+att kasta (kastar, kastade, kastat)
+att springa (springer, sprang, sprungit)
+att läsa (läser, läste, läst)
 
-att skriva
-att laga
-att räkna
-att skära
-att sälja
-att köpa
-att betala
-att studera
-att drömma
-att sova
-att spela
-att fira
-att vila
-att njuva av
-att städa
-skola
-hus
-dörr
-make
-maka
-bröllop
+att skriva (skriver, skrev, skrivit)
+att laga (lagar, lagade, lagat)
+att räkna (räknar, räknade, räknat)
+att skära (skär, skar, skurit)
+att sälja (säljer, sålde, såld)
+att köpa (köper, köpte, köpt)
+att betala (betalar, betalade, betalat)
+att studera (studerar, studerade, studerat)
+att drömma (drömmer, drömde, drömt)
+att sova (sover, sov, sovit)
+att spela (spelar, spelade, spelat)
+att fira (firar, firade, firat)
+att vila (vilar, ivlade, vilat)
+att njuta av (njuter av, njöt av, njutit av)
+att städa (städar, städade, städat)
+skola (skolor)
+hus (hus)
+dörr (dörrar)
+make (makar)
+maka (makor)
+bröllop (bröllop)
 person
-bil
-hem
-stad
+bil (bilar)
+hem (hem)
+stad (städer)
 
-nummer
+nummer (nummer)
 tjugoett/tjugoen
 tjugotvå
 tjugosex
