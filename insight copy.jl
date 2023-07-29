@@ -12,6 +12,33 @@ catch
         using CSV
 end
 
+function plot_xp(df)
+        xp_bar_trace = PlotlyJS.bar(
+                x = rownumber.(eachrow(df)),
+                y = df[:, :cum_sum_xp],
+                name = "Cumulative XP per day",
+                marker_color = "#531eae"
+        )
+        xp_trace = PlotlyJS.scatter(
+                x = rownumber.(eachrow(df)),
+                y = df[:, :XP_sum],
+                name = "Total XP per day",
+                line_shape = "spline",
+                line_color = "#ff9749"
+        )
+        combined_data = [xp_bar_trace, xp_trace]
+        combined_layout = Layout(
+                title = "XP per day learning Swedish words",
+                barmode = "overlay",
+                yaxis_title = "XP",
+                xaxis_title = "Days training",
+                yaxis_rangemode = "tozero"
+        )
+        p = plot(combined_data, combined_layout)
+        savefig(p, "insight/xp.png")
+        savefig(p, "insight/xp.html")
+end
+
 function plot_growth(compound_progress)
         bar_trace = PlotlyJS.bar(
                 x = rownumber.(eachrow(compound_progress)),
@@ -88,6 +115,8 @@ function main()
 
         progress_df = DataFrame(CSV.File("out/progress.tsv"))
         progress_df[!, :courses_sum_cum] = courses_sum_cum
+        grouped_xp_df = combine(groupby(progress_df, :date), :XP => sum)
+        grouped_xp_df.cum_sum_xp = cumsum(grouped_xp_df[!, :XP_sum])
         compound_progress = combine(groupby(progress_df, :date), :courses_sum_cum => maximum)
         compound_progress[!, :courses_sum_cum_maximum] = compound_progress[!, :courses_sum_cum_maximum] .* 25
         courses = reduce(vcat, [split(i[2], ',') .|> x -> parse(Int, x) for i in progress])
@@ -97,6 +126,7 @@ function main()
         end
         plot_distribution(courses_count)
         plot_growth(compound_progress)
+        plot_xp(grouped_xp_df)
 end
 
 main()

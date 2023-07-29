@@ -21,29 +21,29 @@ eftersom
 inte
 det här
 jag behöver det här
-hur mycket kostar det här
+hur mycket kostar det här?
 det där
 
 alla
 eller
 och
-att veta
+att veta (vet - visste - vetat)
 jag vet
 jag vet inte
-att tänka
-att komma
-att lägga
-att ta
-att hitta
-att lyssna
-att arbeta
-att prata
-att ge
-att tycka om
-att hjälpa
-att älska
-att ringa
-att vänta
+att tänka (tänker, tänkte, tänkt)
+att komma (kommer, kom, kommit)
+att lägga (lägger, lade, lagt)
+att ta (tar, tog, tagit)
+att hitta (hittar, hittade, hittat)
+att lyssna (lyssnar, lyssnade, lyssnat)
+att arbeta (arbetar, arbetade, arbetat)
+att prata (pratar, pratade, pratat)
+att ge (ger, gav, givit)
+att tycka om (tycker om, tyckte om, tyckt om)
+att hjälpa (hjälper, hjälpte, hjälpt)
+att älska (älskard, älskade, älskat)
+att ringa (ringer, ringde, ringt)
+att vänta (väntar, väntade, väntat)
 jag gillar dig
 jag gillar inte det här
 älskar du mig?
@@ -70,29 +70,29 @@ sjutton
 arton
 nitton
 tjugo
-ny
-gammal
+ny (nytt, nya)
+gammal (gammalt, gamla)
 få
 många
 hur mycket?
 
 hur många?
-fel
-rätt
-ond
-god
-glad
-kort
-lång
-liten
-stor
+fel (fel, fel)
+rätt (rätt, rätta)
+ond (ont, onda)
+god (gott, goda)
+glad (glatt, glada)
+kort (kort, korta)
+lång (långt, långa)
+liten (litet, lilla)
+stor (stort, stora)
 där
 här
 höger
 vänster
-vacker
-ung
-gammal
+vacker (vackert, vackra)
+ung (ungt, unga)
+gammal (gammalt, gamla)
 hallå
 ses sen
 ok
@@ -109,102 +109,102 @@ förlåt
 tack
 är du snäll
 jag vill ha det här
-nu
-eftermiddag
-förmiddag
-natt
-morgon
-kväll
-middagstid
-midnatt
-timme
-minut
-sekund
-dag
-vecka
-månad
-år
-tid
-datum
-förrgår
+nu (nu)
+eftermiddag (eftermiddagar)
+förmiddag (förmiddagar)
+natt (nätter)
+morgon (morgnar)
+kväll (kvällar)
+middagstid (middagstider)
+midnatt (midnätter)
+timme (timmar)
+minut (minuter)
+sekund (sekunder)
+dag (dagar)
+vecka (veckor)
+månad (månader)
+år (år)
+tid (tider)
+datum (datum)
+förrgår (förrgår)
 
-i går
-i dag
-i morgon
-övermorgon
-måndag
-tisdag
-onsdag
-torsdag
-fredag
-lördag
-söndag
+i går (i går)
+i dag (i dåg)
+i morgon (i morgon)
+övermorgon (övermorgon)
+måndag (måndager)
+tisdag (tisdagar)
+onsdag (onsdagar)
+torsdag (torsdagar)
+fredag (fredagar)
+lördag (lördagar)
+söndag (söndagar)
 imorgon är det lördag
-liv
-kvinna
-man
-kärlek
-pojkvän
-flickvän
-vän
-kyss
-sex
-barn
-bebis
-flicka
-pojke
+liv (liv)
+kvinna (kvinnor)
+man (män)
+kärlek (kärlekar)
+pojkvän (pojkvänner)
+flickvän (flickvänner)
+vän (vänner)
+kyss (kyssar)
+sex (sex)
+barn (barn)
+bebis (bebisar)
+flicka (flickor)
+pojke (pojkar)
 
-mamma
-pappa
-mor
-far
-förälder
-son
-dotter
-lillasyster
-lillebror
-storasyster
-storebror
-att stå
-att sitta
-att ligga
-att stänga
-att öppna
-att förlora
-att vinna
-att dö
-att leva
-att sätta på
-att stänga av
-att döda
-att skada
-att röra
+mamma (mammor)
+pappa (pappor)
+mor (mödrar)
+far (fäder)
+förälder (förälder)
+son (söner)
+dotter (döttrar)
+lillasyster (lillasystrar)
+lillebror (lillebröder)
+storasyster (storasystrar)
+storebror (storebröder)
+att stå (står, att, suttit)
+att sitta (sitter, satt, suttit)
+att ligga (ligger, låg, legat)
+att stänga (stänger, stängde, stängt)
+att öppna (öppnar, öppnade, öppnat)
+att förlora (förlora, förlorade, förlorat)
+att vinna (vinner, vann, vunnit)
+att dö (dör, dog, dött)
+att leva (lever, levde, levat)
+att sätta på (sätter på, satt på, satt på)
+att stänga av (stänger av, stängde av, stängt av)
+att döda (dödar, dödade, dödat)
+att skada (skadar, skadade, skadat)
+att röra (rör, rörde, rört)
 
-att titta
-att dricka
-att äta
-att gå
-att träffa
-att tippa
-att kyssa
-att följa
-att gifta sig
-att svara
-att fråga
-fråga
-företag
-företag
-jobb
-pengar
-telefon
-kontor
-läkare
-sjukhus
-sjuksköterska
-polis
-president
-vit
-svart
+att titta (tittar, titade, tittat)
+att dricka (dricker, drack, druckit)
+att äta (äter, åt, åtit)
+att gå (går, gick, gått)
+att träffa (träffar, träffade, träffat)
+att tippa (tippar, tippade, tippat)
+att kyssa (kysser, kysste, kysst)
+att följa (följer, följde, följt)
+att gifta sig (gifter sig, gifte sig, gift sig)
+att svara (svarad, svarade, svarat)
+att fråga (frågar, frågade, frågat)
+fråga (frågor)
+företag (företag)
+företag (företag)
+jobb (jobb)
+pengar (pengar)
+telefon (telefoner)
+kontor (kontor)
+läkare (läkare)
+sjukhus (sjukhus)
+sjuksköterska (sjuksköterskor)
+polis (poliser)
+president (presidenter)
+vit (vitt, vita)
+svart (svart, svarta)
 
 röd
 blå
@@ -518,57 +518,57 @@ förkylning
 sår
 avtalad tid
 
-hosta
-hals
-rumpa
-axel
-knå
-ben
-arm
-mage
-barm
-rygg
-tand
-tunga
-läpp
-finger
-tå
-magäsack
-lunga
-lever
-nerv
-njure
-tarm
+hosta (hostor)
+hals (halsar)
+rumpa (rumpor)
+axel (axlar)
+knä (knän)
+ben (ben)
+arm (armar)
+mage (magar)
+barm (barmar)
+rygg (ryggar)
+tand (tänden)
+tunga (tungor)
+läpp (läppar)
+finger (fingrar)
+tå (tår)
+magsäck (magsäckar)
+lunga (lungor)
+lever (levrar)
+nerv (nerver)
+njure (njurar)
+tarm (tarmar)
 färg
-orange
-grå
-brun
+orange (orangt, oranga)
+grå (grått, gråa)
+brun (brunt, bruna)
 
-rosa
-tråkig
-tung
-lätt
-ensam
-hungrig
-törstig
-ledsen
-brant
-platt
-rund
-kantig
-smal
-bred
-djup
-grund
-enorm
+rosa (rosa, rosa)
+tråkig (tråkigt, tråkiga)
+tung (tungt, tunga)
+lätt (lätt, lätta)
+ensam (ensamt, ensamma)
+hungrig (hungrigt, hungriga)
+törstig (törstigt, törstiga)
+ledsen (ledset, ledsna)
+brant (brant, branta)
+platt (platt, platta)
+rund (runt, runda)
+kantig (kantigt, kantiga)
+smal (smalt, smala)
+bred (brett, breda)
+djup (djupt, djupa)
+grund (grunt, grunda)
+enorm (enormt, enorma)
 nord
-ost
+öst
 syd
 väst
-smutsig
-ren
-full
-tom
+smutsig (smutsigt, smutsiga)
+ren (rent, rena)
+full (fullt, fulla)
+tom (tomt, tomma)
 
 dyr
 billig

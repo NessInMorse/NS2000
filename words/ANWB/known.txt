@@ -1,0 +1,399 @@
+vakantiehuisje
+taart
+lantaarn
+douche
+heer
+weg
+foto
+kracht
+station
+vakantiehuisjes
+taarten
+lantaarns
+douches
+heren
+wegen
+foto`s
+krachten
+stations
+auto
+een auto
+de auto
+auto`s
+de auto`s
+kind
+een kind
+het kind
+kinderen
+de kinderen
+een nieuwe auto
+de nieuwe auto
+nieuwe auto`s
+de nieuwe auto`s
+een groot kind
+het grote kind
+grotere kidneren
+de grotere kinderen
+
+ik
+jij
+hij
+zij (ev)
+wij
+jullie/u
+zij
+mij
+jou
+hem
+haar
+ons
+jullie/u (lv)
+hun
+mijn
+jouw
+uw/jullie
+zijn
+haar
+ons/onze
+hun
+
+ik spreek
+jij spreekt
+hij spreekt
+zij spreekt
+u spreekt
+wij spreken
+jullie spreken
+zij spreken
+ik sprak
+jij sprak
+hij sprak
+zij sprak
+u sprak
+wij spraken
+jullie spraken
+zij spraken
+ik heb gesproken
+jij hebt gesproken
+hij heeft gesproken
+zij heeft gesproken
+u heeft gesproken
+wij hebben gesproken
+jullie hebben gesproken
+zij hebben gesproken
+
+ik lees
+jij leest
+hij leest
+zij leest
+u leest
+wij lezen
+jullie lezen
+zij lezen
+ik las
+jij las
+hij las
+zij las
+u las
+wij lazen
+jullie lazen
+zij lazen
+ik heb gelezen
+jij hebt gelezen
+hij heeft gelezen
+zij heeft gelezen
+u heeft gelezen
+wij hebben gelezen
+jullie hebben gelezen
+zij hebben gelezen
+
+ik ben
+jij bent
+hij is
+zij is
+u bent
+wij zijn
+jullie zijn
+zij zijn
+ik was (is, verleden tijd)
+jij was
+hij was
+zij was
+u was
+wij waren
+jullie waren
+zij waren
+ik ben geweest
+jij bent geweest
+hij is geweest
+zij is geweest
+u bent geweest
+wij zijn geweest
+jullie zijn geweest
+zij waren geweest
+
+ik schrijf
+jij schrijft
+hij schrijft
+zij schrijft
+u schrijft
+wij schrijven
+jullie schrijven
+zij schrijven
+ik schreef
+jij schreef
+hij schreef
+zij schreef
+u schreef
+wij schreven
+jullie schreven
+zij schreven
+ik heb geschreven
+jij hebt geschreven
+hij heeft geschreven
+zij heeft geschreven
+u heeft geschreven
+wij hebben geschreven
+jullie hebben geschreven
+zij hebben geschreven
+
+ik drink
+jij drinkt
+hij drinkt
+zij drinkt
+u drinkt
+wij drinken
+jullie drinken
+zij drinken
+ik dronk
+jij dronk
+hij dronk
+zij dronk
+u dronk
+wij dronken
+jullie dronken
+zij dronken
+ik heb gedronken
+jij hebt gedronken
+hij heeft gedronken
+zij heeft gedronken
+u heeft gedronken
+wij hebben gedronken
+jullie hebben gedronken
+zij hebben gedronken
+
+kunnen
+staan
+liggen
+leggen
+weten
+willen
+doen
+gaan
+zeggen
+zien
+vragen
+geven
+krijgen
+(ik) kon
+(ik) stond
+(ik) lag
+(ik) legde
+(ik) wist
+(ik) wilde
+(ik) deed
+(ik) ging
+(ik) zei
+(ik) zag
+(ik) vroeg
+(ik) gaf
+(ik) kreeg
+(ik) heb gekund
+(ik) heb gestaan
+(ik) heb gelegen
+(ik) heb gelegd
+(ik) heb geweten
+(ik) heb gewild
+(ik) heb gedaan
+(ik) ben gegaan
+(ik) heb gezegd
+(ik) heb gezien
+(ik) heb gevraagd
+(ik) heb gegeven
+(ik) heb gekregen
+
+je komt
+kom je?
+ben je gekomen?
+denk je te komen?
+
+ik spreek niet
+ik spreek nooit
+ik spreek slechts
+ik spreek nauwelijks
+ik spreek niets
+niemand spreekt
+
+in het hoge noorden
+besneeuwde bergen
+de boomgrens (voor naaldhout)
+torenhoge sparren
+een berghut
+het met gras begroeide dak
+een Same (lap)
+de (vierwindstreken-)muts uit Karesuande
+een tam rendier
+het bergkerkje
+de klokkestoel
+
+ja
+nee
+misschien
+alstublieft (verzoek)
+alsjeblieft (aanreiken)
+dank u wel
+hartelijk dank
+geen dank
+neem mij niet kwalijk, pardon
+het spijt mij, sorry
+waar?
+waar is/zijn?
+wanneer?
+wat?
+hoe?
+hoeveel?
+welk(e)?
+wie?
+waarom?
+hoe heet dit?
+wat betekent dit?
+het is
+het is niet
+er is/er zijn
+er is/zijn geen
+is/zijn er?
+is/zijn er geen?
+
+al
+achter
+altijd
+beneden
+boven
+buiten
+daar
+dadelijk
+dicht bij
+dan
+door (plaats)
+door (oorzaak)
+en
+graag
+hier
+iemand
+in
+links
+met
+na
+naar
+naar beneden
+naast
+niemand
+niet
+nooit
+of
+omhoog
+omlaag
+onder
+op
+over
+rechts
+sinds
+spoeding
+thuis
+tot
+tijdens
+tussen
+van (bezit)
+van (richting)
+voor
+voor (plaats)
+voor (tijd)
+zonder
+
+beter
+bezet
+dicht
+dichtbij
+duur
+gemakkelijk
+goed
+goedkoop
+heerlijk
+jong
+juist
+koud
+langzaam
+leeg
+lelijk
+licht
+moeilijk
+mooi
+nieuw
+open
+oud
+slecht
+slechter
+snel
+ver
+verkeerd
+vol
+vrij
+warm
+zwaar (gewicht)
+
+ik spreek geen Zweeds
+ik versta u niet
+kunt dat nog even herhalen?
+spreekt hier iemand Duits of Engels?
+ik ben Nederlander
+ik ben Belg
+Hoe zeg je dit in het Zweeds?
+dit kan ik niet lezen
+kunt u het spellen/opschrijven?
+Het Zweeds is niet moeilijk/gemakkelijk
+ik spreek maar een beetje Zweeds
+kunt u wat langzamer praten?
+spreekt u Duits of Engels?
+ik ben een buitenlander
+hoe spreek je dit uit?
+het gaat mij te snel
+kunt u dit voor mij vertalen?
+
+goedemorgen
+goedemiddag
+goedenavond
+goedenacht
+welterusten
+welkom
+tot ziens
+tot straks
+tot morgen
+goede reis
+dit is de heer/mevrouw
+aangenaam (kennis te maken)
+hoe maakt u het?
+hallo! hoe gaat het?
+uitstekend, dank u
+man
+vrouw
+zoon
+dochter
+vader
+moeder
+vriend
+vriendin
+hoe is uw naam?
+hebt u een goede reis gehad?
+waar komt u vandaan?
+ik uit Nederland/Belgie
+doet u de groeten aan

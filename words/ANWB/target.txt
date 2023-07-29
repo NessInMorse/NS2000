@@ -1,0 +1,398 @@
+stuga
+tårta
+lykta
+dusch
+herre
+väg
+bild
+kraft
+station
+stugor
+tårtor
+lyktor
+duschar
+herrar
+vägar
+bilder
+krafter
+stationer
+bil
+en bil
+bilen
+bilar
+bilarna
+barn
+ett barn
+barnet
+barn
+barnen
+en ny bil
+den nya bilen
+nya bilar
+de nya bilarna
+ett stort barn
+det stora barnet
+stora barn
+de stora barnen
+
+jag
+du
+han
+hon
+vi
+ni
+de
+mig
+dig
+sig
+sig
+oss
+er
+sig
+min-mitt-mina
+din-ditt-dina
+er-ert-era
+sin/hans-sitt-sina
+hennes/dess-des-deras
+vår-vårt-våra
+sin-sitt-sina/deras
+
+jag talar
+du talar
+han talar
+hon talar
+ni talar
+vi talar
+ni talar
+de talar
+jag talade
+du talade
+han talade
+hon talade
+ni talade
+vi talade
+ni talade
+de talade
+jag har talat
+du har talat
+han har talat
+hon har talat
+ni har talat
+vi har talat
+ni har talat
+de har talat
+
+jag läser
+du läser
+han läser
+hon läser
+ni läser
+vi läser
+ni läser
+de läser
+jag läste
+du läste
+han läste
+hon läste
+ni läste
+vi läste
+ni läste
+de läste
+jag har läst
+du har läst
+han har läst
+hon har läst
+ni har läst
+vi har läst
+ni har läst
+de har läst
+
+jag är
+du är
+han är
+hon är
+ni är
+vi är
+ni är
+de är
+jag var
+du var
+han var
+hon var
+ni var
+vi var
+ni var
+de var
+jag har varit
+du har varit
+han har varit
+hon har varit
+ni har varit
+vi har varit
+ni har varit
+de har varit
+
+jag skriver
+du skriver
+han skriver
+hon skriver
+ni skriver
+vi skriver
+ni skriver
+de skriver
+jag skrev
+du skrev
+han skrev
+hon skrev
+ni skrev
+vi skrev
+ni skrev
+de skrev
+jag har skrivit
+du har skrivit
+han har skrivit
+hon har skrivit
+ni har skrivit
+vi har skrivit
+ni har skrivit
+de har skrivit
+
+jag dricker
+du dricker
+han dricker
+hon dricker
+ni dricker
+vi dricker
+ni dricker
+de dricker
+jag drack
+du drack
+han drack
+hon drack
+ni drack
+vi drack
+ni drack
+de drack
+jag har druckit
+du har druckit
+han har druckit
+hon har druckit
+ni har druckit
+vi har druckit
+ni har druckit
+de har druckit
+
+kan
+står
+ligger
+lägger
+vet
+vill
+gör
+går
+säger
+ser
+ber
+ger
+får
+kunde
+stod
+låg
+lade
+visste
+ville
+gjorde
+gick
+sade
+såg
+bad
+gav
+fick
+har kunnat
+har stått
+har legat
+har lagt
+har vetat
+har velat
+har gjort
+har gått
+har sagt
+har sett
+har bett
+har gett
+har fått
+
+du kommer
+kommer du?
+har du kommit?
+tänker du att komma?
+
+jag talar inte
+jag talar aldrig
+jag talar bara
+jag talar knappt/kanppast
+jag talar ingenting
+ingen talar
+
+snöklädda berg
+barrskoggränsen
+tornhöga granar
+en fjällstuga
+gräsbevuxet tak
+en same
+Karesuando mössa
+en tamren
+fjällkapellet
+klockstapeln
+
+ja
+nej
+kanske
+var snäll och
+var så god
+tack
+tack så mycket
+ingenting att tacka för
+ursäkta mig
+förlåt mig
+var?
+var är?
+när?
+vad?
+hur?
+hur mycket?
+vilken, vilket, vilka?
+vem?
+varför?
+vad heter det här?
+vad betyder det här?
+det är
+det är inte
+det finns
+det finns ingen/inget
+finns det?
+finns det ingen/inget?
+
+redan
+bakom
+alltid
+nere
+uppre
+ute
+där
+omedelbart, genast
+nära
+då, när
+genom
+medels, på grund av
+och
+gärna
+här
+någon
+i
+till vänster
+med
+efter
+till
+ner
+bredvid
+ingen
+inte, ej, icke
+aldrig
+eller
+upp
+ned
+under
+på
+över
+till höger
+sedan
+snart
+hemma
+till
+under
+mellan
+av
+från
+för
+framför
+före
+utan
+
+bättre
+upptaget
+stängd
+när, nära
+dyr
+lätt
+bra
+billig
+härlig
+ung
+riktig(t)
+kall
+långsam
+tom
+ful
+lätt
+svår
+vacker
+ny
+öppen
+gammal
+dålig
+sämre
+snabb
+långt bort
+felaktig
+full
+ledig, fri
+varm
+tung
+
+jag talar inte svenska
+jag förstår er inte
+var snäll och säg det igen?
+är här någon som talar tyska eller engelska?
+jag kommer från Holland/jag är holländare
+jag kommer från Belgien/jag är belgier
+hur säger man detta på svenska?
+det här kan jag inte läsa
+kan ni stava/skriva det?
+svenska är inte svårt/lätt
+jag talar bara lite svenska
+var snäll och tala lite långsammare
+talar ni tyska eller engelska?
+jag är utlänning
+hur uttalar man det här?
+det går för fort för mig
+kan ni översätta det för mig?
+
+god morgon
+god middag
+god afton/kväll
+god natt
+sov gott
+välkommen
+adjö, på återseende
+vi ses
+vi ses i morgon
+trevlig resa
+det här är herr/fru
+jag är glad att träffa er
+hur står det till?
+hej! hur är det?
+tack, utmärkt
+man
+hustru, fru
+son
+dotter
+far
+mor
+vän
+väninna
+hur var namnet?
+har ni haft en trevlig resa?
+varifrån kommer ni?
+jag kommer från Holland/Belgien
+hälsa

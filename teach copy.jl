@@ -1,5 +1,16 @@
 using Random
 using Dates
+using REPL.TerminalMenus
+
+function filter_parentheses(word)
+        if '(' in word
+                ind = findfirst('(', word)
+                return strip(word[begin:ind-1])
+        else
+                return strip(word)
+        end
+end
+
 
 function write_mistakes(mistakes)
         #=
@@ -15,7 +26,7 @@ function write_mistakes(mistakes)
         close(infile)
 end
 
-function write_results(courses, xp, accuracy, learn_time, source)
+function write_results(courses, xp, accuracy, learn_time, source, used_modifiers)
         #=
         Writes the results of the text file to out/progress
         in:
@@ -24,13 +35,14 @@ function write_results(courses, xp, accuracy, learn_time, source)
                 the accruracy of which the test was completed
                 the learn calculated learn time for the user
                 the file were the words came from
+                the modifiers that were used e.g. reversed mode
         out:
                 a tsv file containing in the information that is put in
                 including the date on which the test was taken on
         =#
         date = (time() |> unix2datetime |> string)[1:10]
         infile = open("out/progress.tsv", "a")
-        println(infile, "$(date)\t$(join(courses, ','))\t$(accuracy)\t$(xp)\t$(learn_time)\t$(source)")
+        println(infile, "$(date)\t$(join(courses, ','))\t$(accuracy)\t$(xp)\t$(learn_time)\t$(source)\t$(used_modifiers)")
         close(infile)
 end
 
@@ -61,7 +73,7 @@ function word_test(known, target, word_sequence)
                 current += 1
         end
         printstyled("All mistakes:\n$(Set(mistakes))\n", color=:red)
-        return mistakes, current  
+        return mistakes, (current-1) 
 end
 
 function print_course(course_indices)
@@ -115,40 +127,75 @@ function open_courses(filename::String)
         return items
 end
 
-
-function main()
-        course_count::Int = 2
-        course_length::Int = 0
-        REPETITION::Int = 2
-        source::String = "Pinhok"
-        nederlands::Vector{Vector{String}} = open_courses("words/$(source)/nederlands.txt")
-        svenska::Vector{Vector{String}} = open_courses("words/$(source)/svenska.txt")
-
-
-        println("Choose a course, or have 2 random courses\n" *
-                "The courses should be separated by ;")
-        
-        ans = readline()
-        courses = split(ans, ';')
-        if all([all(isdigit, i) for i in courses]) &&
-                all(i -> i <= length(nederlands), [parse(Int, i) for i in courses])
-                course_indices = [parse(Int, i) for i in courses]
-                course_count = length(course_indices)
-                course_length = sum([length(nederlands[i]) for i in course_indices])
+function return_used_modifiers(indices, names)
+        used_modifiers = [names[i] for i in indices]
+        if length(used_modifiers) == 0
+                return "Normal"
         else
-                course_indices = choose_random_course(nederlands, course_count)
-                course_length = sum([length(nederlands[i]) for i in course_indices])
+                return join(used_modifiers, ';')
         end
+end
+
+function multiple_options_menu(options)
+        sources = MultiSelectMenu(options)
+        ans = request("Choose out of the following options (Multiple are possible): ", sources)
+        return sort([i for i in ans])
+end
+
+
+function option_menu(options)
+        sources = RadioMenu(options)
+        ans = request("Pick the source for the courses:, ", sources)
+        return options[ans]
+end
+
+function create_test(REPETITION)
+        source_options = readdir("words/")
+        source::String = option_menu(source_options)
+        known::Vector{Vector{String}} = open_courses("words/$(source)/known.txt")
+        target::Vector{Vector{String}} = open_courses("words/$(source)/target.txt")
+
+        println("Choose whether you want to perform a special mode:")
+        special_modes = ["Reversed"]
+        modifiers = multiple_options_menu(special_modes)
+        if 1 in modifiers
+                temp = copy(known)
+                known = copy(target)
+                target = copy(temp)
+                empty!(temp)
+        end
+        target = [filter_parentheses.(i) for i in target]
+        used_modifiers = return_used_modifiers(modifiers, special_modes)
+
+        println("Choose a course")
+        course_names = ["Course $(i)" for i in eachindex(known)]
+        course_indices = multiple_options_menu(course_names)
+        if !iszero(course_indices)
+                course_count = length(course_indices)
+                course_length = sum([length(known[i]) for i in course_indices])
+        else
+                course_count = 2
+                course_indices = choose_random_course(known, course_count)
+                course_length = sum([length(known[i]) for i in course_indices])
+        end
+
         word_sequence = shuffle([i for i in 1:(course_length)
                                    for _ in 1:REPETITION])
-        dutch_words = reduce(vcat, [nederlands[i] for i in course_indices])
-        swedish_words = reduce(vcat, [svenska[i] for i in course_indices])
+        known_words = reduce(vcat, [known[i] for i in course_indices])
+        target_words = reduce(vcat, [target[i] for i in course_indices]) 
         print_course(course_indices)
-        mistakes, total_tests = word_test(dutch_words, swedish_words, word_sequence)
+        return word_sequence, known_words, target_words, course_length, course_indices, source, used_modifiers
+end
+
+function main()
+        course_length::Int = 0
+        REPETITION::Int = 2
+        word_sequence, known_words, target_words, course_length, course_indices, source, used_modifiers = create_test(REPETITION)
+        mistakes, total_tests = word_test(known_words, target_words, word_sequence)
         xp = course_length * REPETITION
         accuracy = round(xp / total_tests, digits=3)
         learn_time = xp * 5
-        write_results(courses, xp, accuracy, learn_time, source)
+        write_results(course_indices, xp, accuracy, learn_time, source, used_modifiers)
         write_mistakes(mistakes)
 end
 
