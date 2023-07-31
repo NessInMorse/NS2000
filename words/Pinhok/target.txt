@@ -567,60 +567,60 @@ syd
 väst
 smutsig (smutsigt, smutsiga)
 ren (rent, rena)
-full (fullt, fulla)
+full (fullt, fulla) - i allmänhet
 tom (tomt, tomma)
 
-dyr
-billig
-mörk
-ljus
-sexig
-lat
-modig
-generös
-stilig
-ful
-fånig
-vänlig
-skyldig
-blind
-full
-blöt
-torr
-varm
-högt
-stilla
-tyst
-kök
-badrum
-vardagsrum
-sovrum
+dyr (dyrt, dyra)
+billig (billigt, billiga)
+mörk (mörkt, mörka)
+ljus (ljust, ljusa)
+sexig (sexigt, sexiga)
+lat (lat, lata)
+modig (modigt, modiga)
+generös (generöst, generösa)
+stilig (stiligt, stiliga)
+ful (fult, fula)
+fånig (fånigt, fåniga)
+vänlig (vänligt, vänliga)
+skyldig (skyldigt, skyldiga)
+blind (blint, blinda)
+full (fullt, fulla)
+blöt (blött, blöta)
+torr (torrt, torra)
+varm (varmt, varma)
+högt (högt, höga)
+stilla (stilla, stilla)
+tyst (tyst, tysta)
+kök (kök)
+badrum (badrum)
+vardagsrum (vardagsrum)
+sovrum (sovrum)
 
-trädgård
-garage
-vägg
-källare
-toalett
-trappa
-tak
-fönster
-kniv
-kopp
-glas
-tallrik
-mugg
-papperskorg
-skål
-TV-apparat
-skrivbord
-säng
-spegel
-dusch
-soffa
-tavla
-klocka
-bord
-stol
+trädgård (trädgårder)
+garage (garage)
+vägg (väggar)
+källare (källare)
+toalett (toaletter)
+trappa (trappor)
+tak (tak)
+fönster (fönster)
+kniv (knivar)
+kopp (koppar)
+glas (glas)
+tallrik (tallrikar)
+mugg (muggar)
+papperskorg (papperskorgar)
+skål (skålar)
+TV-apparat (TV-apparater)
+skrivbord (skrivbord)
+säng (sängar)
+spegel (speglar)
+dusch (duschar)
+soffa (soffor)
+tavla (tavlor)
+klocka (klockor)
+bord (bord)
+stol (stolar)
 
 simbassäng
 ringklocka
